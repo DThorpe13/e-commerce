@@ -17,8 +17,14 @@ Netlify(deployment)
 
 ## Mobile Responsive
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+## Home Page
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+![eCommerce](https://github.com/DThorpe13/e-commerce/blob/master/public/products.png)
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+## Shipping Address
+
+![eCommerce](https://github.com/DThorpe13/e-commerce/blob/master/public/form.png)
+
+## Checkout
+
+![eCommerce](https://github.com/DThorpe13/e-commerce/blob/master/public/checkout.png)
