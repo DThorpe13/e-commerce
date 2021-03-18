@@ -8,12 +8,12 @@ A fully functional eCommerce application using React.js and Commerce.js, as well
 
 ## Technologies used
 
-React.js
-React Hooks
-Commerce.js
-Material.UI
-Stripe(pay portal)
-Netlify(deployment)
+* React.js
+* React Hooks
+* Commerce.js
+* Material.UI
+* Stripe(pay portal)
+* Netlify(deployment)
 
 ## Mobile Responsive
 
